@@ -14,7 +14,7 @@ public class PDFMerger {
 
         try {
             mergePDFs(inputDir, outputFile);
-            System.out.println("PDF檔案已成功合併。test");
+            System.out.println("PDF檔案已成功合併。test123");
         } catch (IOException e) {
             e.printStackTrace();
         }
